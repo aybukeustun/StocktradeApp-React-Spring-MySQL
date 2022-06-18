@@ -1,0 +1,22 @@
+.logcard-container {
+    width:25%;
+    height: 300px;
+    padding-top: 40px;
+    padding-right: 30px;
+    padding-left: 30px;
+    margin-top:100px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid #dfe7f6;
+    box-shadow: 0 4px 16px #dfe7f6;
+    
+  }
+  .logbutton{
+     
+      
+     
+      padding-top: 20px;
+     
+      
+
+  }

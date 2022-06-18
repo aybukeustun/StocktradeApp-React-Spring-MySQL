@@ -1,0 +1,22 @@
+.home{
+    display: flex;
+flex-direction: row;
+
+
+}
+.left{
+    padding: 0 24px;
+    flex: 1;
+    max-height: 600px;
+    overflow-y: scroll;
+
+}
+.right{
+    padding: 0 24px;
+    flex: 1;
+}
+.title{
+    font-size: 44px;
+    font-weight: 600;
+    text-align: center;
+}
